@@ -13,7 +13,6 @@ class PipedriveService {
   */
   postData(endpoint, data){
     let url = COMPANY_DOMAIN + BASE_URL + endpoint + QUERY_BASE + API_TOKEN;
-    console.log(url);
     return axios.post(url, data);
   }
 

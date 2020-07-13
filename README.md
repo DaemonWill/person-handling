@@ -1,6 +1,8 @@
 # person-handling
 Small amount of code to access, store, and update data in a contact crm platform
 
+[![Build Status](https://travis-ci.com/DaemonWill/person-handling.svg?branch=master)](https://travis-ci.com/DaemonWill/person-handling)
+
 ## Requirements
 
 * Any stable release of NodeJS
